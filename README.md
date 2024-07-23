@@ -8,3 +8,4 @@ how are you
 ---->> “Teachers can open the door, but you must enter it yourself.” 
 ---- . “The beautiful thing about learning is that no one can take it away from you.”
 ---- “A person who never made a mistake never tried anything new."
+---- "The harder the struggle, the more glorious the triumph."
