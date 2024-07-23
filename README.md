@@ -9,3 +9,4 @@ how are you
 ---- . “The beautiful thing about learning is that no one can take it away from you.”
 ---- “A person who never made a mistake never tried anything new."
 ---- "The harder the struggle, the more glorious the triumph."
+---- "You are braver than you believe, stronger than you seem, and smarter than you think."
