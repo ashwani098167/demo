@@ -10,3 +10,4 @@ how are you
 ---- “A person who never made a mistake never tried anything new."
 ---- "The harder the struggle, the more glorious the triumph."
 ---- "You are braver than you believe, stronger than you seem, and smarter than you think."
+---- Success is deeply personal and unique to each individual. Success for one might not be the same for another. 
