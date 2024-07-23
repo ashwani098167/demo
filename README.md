@@ -6,3 +6,4 @@ how are you
 ----“Experience is a hard teacher because she gives the test first, the lesson afterward.”
 ---->>  “Education is the passport to the future, for tomorrow belongs to those who prepare for it today.”
 ---->> “Teachers can open the door, but you must enter it yourself.” 
+---- . “The beautiful thing about learning is that no one can take it away from you.”
