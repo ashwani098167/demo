@@ -11,3 +11,4 @@ how are you
 ---- "The harder the struggle, the more glorious the triumph."
 ---- "You are braver than you believe, stronger than you seem, and smarter than you think."
 ---- Success is deeply personal and unique to each individual. Success for one might not be the same for another. 
+---- “Because you are alive, everything is possible.”
